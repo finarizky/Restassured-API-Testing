@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+}
+
+group 'org.finarizky'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation group: 'io.rest-assured', name: 'rest-assured', version: '5.5.0'
+    testImplementation group: 'org.testng', name: 'testng', version: '7.5'
+    implementation group: 'org.json', name: 'json', version: '20250107'
+    testImplementation group: 'io.rest-assured', name: 'json-schema-validator', version: '5.5.0'
+   implementation group: 'com.github.java-json-tools', name: 'json-schema-validator', version: '2.2.14'
+    //testImplementation("io.qameta.allure:allure-testng:2.21.0")
+
+}
+
+
+test {
+    useTestNG(){
+        // Gunakan file TestNG XML untuk konfigurasi
+        suites 'src/test/resources/tesng.xml'
+
+        testLogging {
+            events "PASSED", "FAILED", "SKIPPED"
+        }
+
+    }
+}

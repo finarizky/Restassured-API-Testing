@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="API Test Automation">
+
+    <test name="API Test">
+
+        <classes>
+            <class name="apiauto.GETScenario"></class>
+            <class name="apiauto.PUTScenario"></class>
+            <class name="apiauto.POSTScenario"></class>
+            <class name="apiauto.DELETEScenario"></class>
+           <class name="apiauto.PATCHScenario"></class>
+
+        </classes>
+    </test>
+</suite>
+
