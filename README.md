@@ -9,7 +9,7 @@ All skenario : testng.xml -> klik kanan dan pilih run
 
 Konfigurasi yang diperlukan :
 
-konfigurasi rest assured di Build.gradle
-konfigurasi testNg di Build.gradle
-konfigurasi allure di Build.gradle
-konfigurasi github action
+1. konfigurasi rest assured di Build.gradle
+2. konfigurasi testNg di Build.gradle
+3. konfigurasi allure di Build.gradle
+4. konfigurasi github action
