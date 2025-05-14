@@ -1,5 +1,8 @@
 package apiauto;
 
+import io.qameta.allure.Description;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
@@ -10,6 +13,10 @@ import org.testng.annotations.Test;
 import java.util.HashMap;
 
 public class PUTScenario {
+
+    @Test(description = "Verify put scenario")
+    @Severity(SeverityLevel.NORMAL)
+    @Description("This test verifies the put user passed")
 
     public static void setup() {
         RestAssured.baseURI = "https://gorest.co.in/public/v2";
