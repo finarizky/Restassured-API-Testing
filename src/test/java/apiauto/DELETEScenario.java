@@ -6,10 +6,15 @@ import io.restassured.specification.RequestSpecification;
 import org.finarizky.Main;
 import org.json.JSONObject;
 import org.testng.annotations.Test;
+import io.qameta.allure.*;
 
 import java.util.HashMap;
 
 public class DELETEScenario {
+
+    @Test(description = "Verify delete scenario")
+    @Severity(SeverityLevel.NORMAL)
+    @Description("This test verifies the delete user passed")
 
     public static void setup() {
         RestAssured.baseURI = "https://gorest.co.in/public/v2";

@@ -5,78 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7edfa784-88d1-4e72-8aed-3030851763bd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/02b914fb-536b-4912-939b-e6bbf98f4220-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0303159b-cf9d-4e02-a8f6-241abec98b8f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/05b5d34d-155c-4b60-a1c2-f133eba73d47-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/09073105-24ff-4d03-aeb2-b8fc81b3ae99-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/099fa0da-fd7f-437a-8e0c-7bcd94113d81-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0ad3d0d4-4641-4ffe-8d3c-e225625e4f8d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/12d21cd5-4a68-4fac-a0ad-7a3d850aa1fb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/149c93b7-4441-42f5-8752-5a37d951d4cf-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/14f4e0d8-161d-4fb8-87fa-110d987d72eb-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/159a08dd-2e7c-4d11-b6d1-72764260e8c1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/17c2b227-0921-4b76-96a4-17c98a5ef17c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/1fcb394f-7d62-4fd2-bbee-a18ae85eb36d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/216d743b-0900-4256-910d-08d238644ecc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2483b486-d51b-47fa-b96b-6ad93bea60ac-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2564d608-0348-43b3-b6ce-d685a6500417-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2c31c6ec-dec4-45e3-bbd6-c83c3e5d4d59-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2f8ac924-ae81-47f0-97a0-b94566d22014-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/36dd410b-ac7c-43db-b3a8-200a231d9499-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3f7dc1bc-e979-4bf8-baa2-4fe55adc66da-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/43a85f86-43ab-48af-ae4c-4272ecca8bc0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4866cc97-c232-421e-9473-b9ab3549e396-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/489522a4-02db-4577-8b42-ce6206c97339-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4a3b67b8-af9a-4567-aa77-ee695fc88e12-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4b063536-d01c-43d3-8db0-522d0b71bec5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4e75625b-cd6e-4492-8c57-c1a61e03b0b4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4e79f880-fa23-41ba-9846-c0e9456739d1-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/53f5673d-8575-404e-b06e-867dde60308a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5920deda-4241-4ab4-a3ae-c97ee3bd966b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/61db4dcc-30ad-4552-9579-bba33446a2fd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/633babf6-9693-4d8d-8a48-9c0c36f3788f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6b915416-a270-4aba-aa42-a819f07d06df-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6bf046e3-d23b-4925-94a5-ab8e6221dee8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6d33d47a-cb47-4bd8-8b97-8e104bca4607-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/755b00b7-1f51-4ddc-add5-8f1c07564cf7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7914a36a-6657-46f6-94b6-9585bae3685e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8424fea9-97cc-4d64-af36-561c2af98740-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8580a701-f044-41ad-8364-683bece73455-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/87f3aef8-4041-477d-b1d6-21f5edaab9b9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8a18bdcf-81c0-484b-8192-8abf43c45621-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/98fe5e91-7eb8-4c18-9a8a-935b328bfb7c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/99185c01-029b-4278-a57f-7bdf7587cfb3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9a6ab7fa-b0e2-44fb-884d-f534702e7efc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9e08dfe3-2561-41c0-abf4-e7431f4e66fb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9fd67f3b-8e64-41b4-8a6b-f3796939beb3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a01bbcf6-2ad3-4736-a4fd-77b7f637bd34-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a07b474d-ea34-49bb-9963-5a050ba8e332-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a1276751-1c97-42ec-bfa7-adf9ae72e1ba-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a5be8fbf-2bee-4049-a2b5-184331903041-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a6e522f0-fa4c-4405-b270-dd31a0923cc0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a8ea1c22-328f-4e1f-aa55-87f92791f72e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/aa252d65-04b5-4deb-b652-90e2f640e496-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ac2f51a3-c6ff-4d9d-9673-f167c113ac6f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b53aff66-09a4-4c89-a4d6-674a71ac1d6e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b5f02b76-a03d-4350-a455-d0b350593669-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b76d630f-d78c-4166-8013-bd7c44c9028b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c01f0a6a-c052-4f92-bca4-27342ae3a643-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c51d4e1d-71a6-49d8-804d-3904043e2e5b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c94ead11-7031-46ce-b14a-193c7bd1f112-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ca66ea2a-4d60-4458-a7c4-57a1d757c747-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d602e778-41f1-4be3-9a4b-70c14c62ec8e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d7c3dbfb-8e5c-4586-867c-c2e6000f355b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/da27df52-e924-4f45-96ce-bace5c234492-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/dcf78cef-9875-452c-a685-aa84def95d0c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e21f43d9-0414-49d8-b031-b201976ccff4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e5b16ac3-2eb2-4159-a9a2-1dc2c6845eb1-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e84ca53d-673f-4e04-82f0-3b68884ae688-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e965a873-22df-4099-927f-7bc901896a85-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f23b2407-4d67-4ffd-aeee-27ae51237a13-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f6b4af93-2f71-4214-aa8c-c054db9760cd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f78001a4-b878-4b55-b600-6818b6082297-result.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiauto/DELETEScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiauto/DELETEScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiauto/GETScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiauto/GETScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiauto/PATCHScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiauto/PATCHScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiauto/POSTScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiauto/POSTScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apiauto/PUTScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiauto/PUTScenario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,28 +51,37 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2s44BT1ugOxdP4r3QKGtYUSQl7s" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/macbook/Desktop/Fina_Rizky_Pratiwi/Jayjay/Jayjay_task18&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Gradle.Restassured-API-Testing [test].executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/macbook/Documents/GitHub/Restassured-API-Testing",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/build" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.DELETEScenario">
+  <component name="RunManager" selected="Gradle.Restassured-API-Testing [test]">
     <configuration name="DELETEScenario" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -154,6 +103,7 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
     <configuration name="DELETEScenario.DELETEUserInvalidID" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -177,6 +127,7 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
     <configuration name="GETScenario (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -200,6 +151,7 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
     <configuration name="PATCHScenario.PATCHUserName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -223,38 +175,38 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="PATCHScenario.PATCHUserStatus" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Restassured-API-Testing [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;apiauto.PATCHScenario.PATCHUserStatus&quot;" />
+            <option value="test" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Restassured-API-Testing [test]" />
         <item itemvalue="Gradle.DELETEScenario" />
         <item itemvalue="Gradle.DELETEScenario.DELETEUserInvalidID" />
         <item itemvalue="Gradle.GETScenario (1)" />
         <item itemvalue="Gradle.PATCHScenario.PATCHUserName" />
-        <item itemvalue="Gradle.PATCHScenario.PATCHUserStatus" />
       </list>
     </recent_temporary>
   </component>

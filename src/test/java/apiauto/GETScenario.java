@@ -1,5 +1,8 @@
 package apiauto;
 
+import io.qameta.allure.Description;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
 import io.restassured.RestAssured;
 import io.restassured.module.jsv.JsonSchemaValidator;
 import org.finarizky.Main;
@@ -12,6 +15,10 @@ import static org.hamcrest.Matchers.hasItem;
 
 
 public class GETScenario {
+
+    @Test(description = "Verify get scenario")
+    @Severity(SeverityLevel.NORMAL)
+    @Description("This test verifies the get user passed")
 
     public static void setup() {
         RestAssured.baseURI = "https://gorest.co.in/public/v2";

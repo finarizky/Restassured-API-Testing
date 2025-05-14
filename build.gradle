@@ -29,11 +29,11 @@ test {
     useTestNG(){
         // Gunakan file TestNG XML untuk konfigurasi
         suites 'src/test/resources/tesng.xml'
-
-        testLogging {
-            events "PASSED", "FAILED", "SKIPPED"
-        }
-
     }
+
+    testLogging {
+        events "PASSED", "FAILED", "SKIPPED"
+    }
+
 
 }

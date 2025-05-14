@@ -1,5 +1,8 @@
 package apiauto;
 
+import io.qameta.allure.Description;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
 import io.restassured.RestAssured;
 import org.finarizky.Main;
 import org.hamcrest.Matchers;
@@ -9,6 +12,10 @@ import org.testng.annotations.Test;
 import static org.hamcrest.Matchers.equalTo;
 
 public class POSTScenario {
+
+    @Test(description = "Verify post scenario")
+    @Severity(SeverityLevel.NORMAL)
+    @Description("This test verifies the post user passed")
 
     public static void setup() {
         RestAssured.baseURI = "https://gorest.co.in/public/v2";
