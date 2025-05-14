@@ -4,8 +4,8 @@ Tujuan : Melakukan automation test api https://gorest.co.in/public/v2 menggunaka
 
 Cara Running :
 
-All skenario : testNg -> melalui build.gradle
-All skenario : testng.xml -> klik kanan dan pilih run
+- All skenario : testNg -> melalui build.gradle
+- All skenario : testng.xml -> klik kanan dan pilih run
 
 Konfigurasi yang diperlukan :
 
